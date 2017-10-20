@@ -23,6 +23,21 @@
 
 ![Alt text](images/game.png "Игровой экран")
 
+![Alt text](images/hero.png "Персонаж")
+Иконка персонажа.
+
+![Alt text](images/progress.png "Прогресс")
+Шкала получения персонажем нового уровня.
+
+![Alt text](images/hint.png "Подсказка")
+Иконка получения подсказки.
+
+![Alt text](images/level.png "уровень игрока")
+Текущий уровень персонажа.
+
+![Alt text](images/ability.png "Способность")
+ability(1-3)- иконки способностей .
+
 Вкладка настроек:
 
 ![Alt text](images/settings.png "Экран настроек")
