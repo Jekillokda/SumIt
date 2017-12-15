@@ -15,6 +15,7 @@ import android.widget.Button;
 import android.widget.TextView;
 public class GameScoreActivity extends AppCompatActivity{
     protected TextView thisgamescore;
+    protected TextView thisTitle;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,6 +27,7 @@ public class GameScoreActivity extends AppCompatActivity{
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
        int game_score=getGameScore();
         thisgamescore= (TextView) findViewById(R.id.score);
+        thisTitle= (TextView) findViewById(R.id.mtitle);
         thisgamescore.setText(String.valueOf(game_score));
     }
 
