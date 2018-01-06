@@ -1,5 +1,5 @@
 ﻿# SumIt 
-### Requirments: ([Ru](https://github.com/Jekillokda/SumIt/blob/master/docs/Requirements))
+### Requirments: ([Ru](https://jekillokda.github.io/SumIt/docs/Requirements))
 ## 1 Введение
 Целью разработки является игра для мобильных устройств на ОС Android 6.0 и выше, целью которой будет решение простешей задачи сложения
 двух и более чисел.
